@@ -132,5 +132,10 @@ public class RedisTest {
 				 
 	}
 	 
+	
+	public void  Test2git(){
+		System.out.println("使用Elicpse操作git");
+	}   
+	
 	 
 }
